@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, MERN, Java, Kotlin, C, C++**
 
-- 📫 How to reach me **thaveeshasanjanaofficial01@gmail.com**
+- 📫 How to reach me **nuradhadakshina1234@gmail.com**
 
 - ⚡ Fun fact **call me Nura**
 
